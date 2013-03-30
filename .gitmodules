@@ -1,3 +1,6 @@
 [submodule "lib/phpunit"]
 	path = lib/phpunit
 	url = git://github.com/sebastianbergmann/phpunit.git
+[submodule "lib/phpDocumentor"]
+	path = lib/phpDocumentor
+	url = git://github.com/phpDocumentor/phpDocumentor2.git
